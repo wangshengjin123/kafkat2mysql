@@ -15,8 +15,8 @@ RichSinkFunction<NginxModel> {
 	private static final long serialVersionUID = 1L;
 	private Connection connection;
 	private PreparedStatement preparedStatement;
-	String username = "djdm";
-	String password = "dongjingdm";
+	String username = "xxxxxx";
+	String password = "xxxxxx";
 	String drivername = "com.mysql.jdbc.Driver";
 	String dburl = "jdbc:mysql://192.168.23.172:3306/flink";
  
